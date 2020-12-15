@@ -4,9 +4,9 @@ var mineflayer = require("mineflayer");
 var db = require("quick.db");
 
 var ayar = {
-  host: "IP.aternos.me", //Sunucu IPnizi "" arasına giriniz.
+  host: "ConConCraft999.aternos.me", //Sunucu IPnizi "" arasına giriniz.
   port: 25565, //Sunucu portunuzu giriniz. Genellikle 25565 olarak ayarlıdır.
-  username: "MidNight", //Sunucuya giriş yapacak bot isminizi "" arasına girin.
+  username: "ZERYBOT", //Sunucuya giriş yapacak bot isminizi "" arasına girin.
   version: false //Burası böyle kalsın değiştirmeyin.
 };
 
